@@ -4,7 +4,7 @@ import Navigation from './Navigtion'
 
 const Header = () => {
     return (
-        <div className='Header'>
+        <div className='header-container clearfix'>
             <div className='logo'>
                 <Logo />
             </div>
